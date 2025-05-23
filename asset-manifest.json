@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/vacation-website/static/css/main.c3d0957f.css",
+    "main.js": "/vacation-website/static/js/main.7d1328ad.js",
+    "static/js/488.80ecea7c.chunk.js": "/vacation-website/static/js/488.80ecea7c.chunk.js",
+    "static/media/Card1.jpg": "/vacation-website/static/media/Card1.44442a2e04a53bd06197.jpg",
+    "static/media/bgimg.jpg": "/vacation-website/static/media/bgimg.04c4419ab75bf271ea7c.jpg",
+    "static/media/Card4.jpeg": "/vacation-website/static/media/Card4.a6bd3b2255f2e6e92b22.jpeg",
+    "index.html": "/vacation-website/index.html",
+    "static/media/arrow_left.svg": "/vacation-website/static/media/arrow_left.db6e2d88c7c35a775ce4.svg",
+    "static/media/arrow_right.svg": "/vacation-website/static/media/arrow_right.f7c6ac6d310d3b82f0a0.svg",
+    "main.c3d0957f.css.map": "/vacation-website/static/css/main.c3d0957f.css.map",
+    "main.7d1328ad.js.map": "/vacation-website/static/js/main.7d1328ad.js.map",
+    "488.80ecea7c.chunk.js.map": "/vacation-website/static/js/488.80ecea7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d0957f.css",
+    "static/js/main.7d1328ad.js"
+  ]
+}
